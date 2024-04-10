@@ -1,0 +1,6 @@
+@InMemoryEventBus_HostAddress = http://localhost:5019
+
+GET {{InMemoryEventBus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
