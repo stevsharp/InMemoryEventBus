@@ -10,5 +10,5 @@ Thread-safe implementation for concurrency safety.
 Dependencies
 This project makes use of the following dependencies:
 
-mediaR - A simple mediator implementation in .NET. It provides support for the CQRS (Command Query Responsibility Segregation) pattern.
+MediatR - A simple mediator implementation in .NET. It provides support for the CQRS (Command Query Responsibility Segregation) pattern.
 System.Channels - The System.Channels namespace contains types for implementing producer-consumer scenarios.
