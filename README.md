@@ -12,3 +12,7 @@ This project makes use of the following dependencies:
 
 MediatR - A simple mediator implementation in .NET. It provides support for the CQRS (Command Query Responsibility Segregation) pattern.
 System.Channels - The System.Channels namespace contains types for implementing producer-consumer scenarios.
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/spyros-ponaris-913a6937/)
